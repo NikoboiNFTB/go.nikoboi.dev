@@ -1,2 +1,1 @@
-# go.nikoboi.dev
-Link shortener for my sites.
+Link shortener for my projects.
